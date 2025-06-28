@@ -1,4 +1,4 @@
-# ParamSpider: Parameter miner for humans
+# ParamSpider Termux: Parameter miner for humans
 
 ![ParamSpider](https://raw.githubusercontent.com/0xKayala/ParamSpider/master/static/banner.PNG)
 
